@@ -1,0 +1,10 @@
+C:\Users\fmkms\source\repos\FindWindowTest1\FindWindowTest1\obj\Debug\FindWindowTest1.csprojAssemblyReference.cache
+C:\Users\fmkms\source\repos\FindWindowTest1\FindWindowTest1\obj\Debug\FindWindowTest1.Form1.resources
+C:\Users\fmkms\source\repos\FindWindowTest1\FindWindowTest1\obj\Debug\FindWindowTest1.Properties.Resources.resources
+C:\Users\fmkms\source\repos\FindWindowTest1\FindWindowTest1\obj\Debug\FindWindowTest1.csproj.GenerateResource.cache
+C:\Users\fmkms\source\repos\FindWindowTest1\FindWindowTest1\obj\Debug\FindWindowTest1.csproj.CoreCompileInputs.cache
+C:\Users\fmkms\source\repos\FindWindowTest1\FindWindowTest1\bin\Debug\FindWindowTest1.exe.config
+C:\Users\fmkms\source\repos\FindWindowTest1\FindWindowTest1\bin\Debug\FindWindowTest1.exe
+C:\Users\fmkms\source\repos\FindWindowTest1\FindWindowTest1\bin\Debug\FindWindowTest1.pdb
+C:\Users\fmkms\source\repos\FindWindowTest1\FindWindowTest1\obj\Debug\FindWindowTest1.exe
+C:\Users\fmkms\source\repos\FindWindowTest1\FindWindowTest1\obj\Debug\FindWindowTest1.pdb
